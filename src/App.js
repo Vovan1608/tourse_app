@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import Loading from './Loading'
 import Tours from './Tours'
 
-// I SWITCHED TO PERMANENT DOMAIN
+// here is info for app or in src/tours_info.js
 const url = 'https://course-api.com/react-tours-project';
 
 function App() {
